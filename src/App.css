@@ -1,0 +1,6 @@
+.box__shadow{
+    box-shadow:#ff0000 0px 5px 45px;
+}
+.header-bg{
+    background: linear-gradient(45deg , #ff8800 0 50%, #ff0000 50% 100%);
+}
